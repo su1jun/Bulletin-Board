@@ -289,7 +289,7 @@ created_date와 modified_date는 날짜 포맷을 적용해주기 위해 datetim
    
    <details>
   <summary>추가할 기능 </summary>
-     
+    
 - 댓글 페이징 처리
 - 쿠키나 세션을 이용해 조회수 중복 카운트 방지
 - 파일 업로드 기능 추가
